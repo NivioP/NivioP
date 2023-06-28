@@ -1,15 +1,15 @@
 <!-- # Olá! Eu sou o Nivio 👋 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00bfbf&width=435&lines=Olá!+Eu+sou+o+Nivio+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00bfbf&width=435&lines=Hi!+I+am+Nivio+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![gif final](https://github.com/NivioP/NivioP/assets/95502425/b773cef7-df23-460f-9924-5494ed8375c1)
 
 
-<h3 align="justify">💻 Desenvolvedor Backend </h3>
+<h3 align="justify">💻 Backend Developer</h3>
 <p align="justify">
-    Entusiasta da tecnologia, desenvolvimento e comunicação. Aprendendo e me superando todos os dias!
+    Enthusiastic about technology, development and communication. Learning and improving myself everyday!
 
--  No momento trabalho como líder do time de Integração Backend na [Way Data Solution](https://waydatasolution.com.br/ "Way Data's home page").
--  Também trabalho como Artificial Intelligence Researcher no [CEIA](https://ceia.ufg.br/"). 
+-  At the moment I work as the leader of the Backend Integration team at [Way Data Solution](https://waydatasolution.com.br/ "Way Data's home page").
+-  I also work as an Artificial Intelligence Researcher at [CEIA](https://ceia.ufg.br/"). 
 
 
 <h3 align="justify"> 🚀 Techs & Skills </h3>
