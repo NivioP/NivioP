@@ -8,7 +8,7 @@ Enthusiastic about technology, development and communication. Learning and impro
 
 ### Current Roles
 - **Backend Integration Team Lead** at [Way Data Solution](https://waydatasolution.com.br/ "Way Data's home page")
-- **Artificial Intelligence Researcher** at [CEIA](https://ceia.ufg.br/")
+- **Artificial Intelligence Researcher** at [CEIA](https://ceia.ufg.br)
 
 <br>
 
