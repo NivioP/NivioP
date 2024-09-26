@@ -40,7 +40,7 @@ Enthusiastic about technology, development and communication. Learning and impro
 
 ### 📝 Featured Projects
 - **Backend**
-  
+  - [Task Management API](https://github.com/NivioP/Task-Management-API): This project is a cloud-based Task Management API built with ASP.NET Core and integrated with AWS services.
 - **Artificial Intelligence**
   - [LLM Project](https://github.com/NivioP/LLM-Study): A repository for studying and experimenting with Large Language Models (LLMs) in Python.
 <br>
