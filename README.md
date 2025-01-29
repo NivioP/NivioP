@@ -3,7 +3,7 @@
 
 ![gif final](https://github.com/NivioP/NivioP/assets/95502425/b773cef7-df23-460f-9924-5494ed8375c1)
 
-## 💻 Backend Developer & AI Enthusiast
+## 💻 Backend & AI Developer
 Enthusiastic about technology, development and communication. Learning and improving myself every day!
 
 ### Current Roles
