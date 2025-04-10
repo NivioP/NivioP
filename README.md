@@ -3,11 +3,11 @@
 
 ![gif final](https://github.com/NivioP/NivioP/assets/95502425/b773cef7-df23-460f-9924-5494ed8375c1)
 
-## 💻 Backend & AI Developer
+## 💻 AI Software Engineer
 Enthusiastic about technology, development and communication. Learning and improving myself every day!
 
 ### Current Roles
-- **Backend Integration Tech Lead** at [Way Data Solution](https://waydatasolution.com.br/ "Way Data's home page")
+- **AI Software Engineer** at [HUG Your Customer](https://hugyourcustomer.ai)
 - **AI Developer** at [CEIA](https://ceia.ufg.br)
 
 <br>
